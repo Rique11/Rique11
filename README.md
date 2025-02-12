@@ -18,8 +18,8 @@ Tenho experiência em **desenvolvimento web, automações, impressão e modelage
 
 ### 💡 **Soft Skills**  
 ✔️ Gestão de Projetos (Membros)  
-✔️ Gestão de Tempo  
-✔️ Proatividade
+✔️ Gestão de Tempo   
+✔️ Proatividade  
 ✔️ Inglês Avançado  
 
 
