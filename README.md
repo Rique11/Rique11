@@ -19,7 +19,9 @@ Tenho experiência em **desenvolvimento web, automações, impressão e modelage
 ### 💡 **Soft Skills**  
 ✔️ Gestão de Projetos (Membros)  
 ✔️ Gestão de Tempo  
-✔️ Proatividade  
+✔️ Proatividade
+✔️ Inglês Avançado  
+
 
 ### 🔧 **Hard Skills**  
 ✅ **Frontend:** React  
