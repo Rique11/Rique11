@@ -49,6 +49,55 @@ Se quiser trocar uma ideia sobre tecnologia, projetos ou qualquer outro assunto,
 💼 **LinkedIn:** [www.linkedin.com/in/henrique-fajardo-59349328a](#)  
 🚀 **GitHub:** [github.com/Rique11](#)  
 
+# 💻 Henrique Cois Fajardo  
+
+🎓 **Computer Engineering Student** at UTFPR - Apucarana  
+📌 **Project Director** at Therion Empresa Júnior  
+🚀 Passionate about technology, innovation, and development  
+
+---
+
+## 🔥 About Me  
+
+I am a technology and development enthusiast, currently pursuing a **Computer Engineering** degree at UTFPR. In addition to my studies, I work as a **Project Director** at Therion Empresa Júnior, where I manage projects and collaborate directly with advisors to ensure the delivery of innovative solutions.  
+
+I have experience in **web development, automation, 3D printing and modeling, and mobile app development**. I am always eager to learn new technologies and enhance my skills to develop efficient and impactful solutions.  
+
+---
+
+## 🛠️ Technologies & Skills  
+
+### 💡 **Soft Skills**  
+✔️ Project Management (Team Members)  
+✔️ Time Management  
+✔️ Proactivity  
+✔️ Advanced English  
+
+### 🔧 **Hard Skills**  
+✅ **Frontend:** React  
+✅ **Backend:** Node.js  
+✅ **Database:** SQL  
+✅ **Programming:** Python  
+✅ **3D Printing & Modeling**  
+
+---
+
+## 📈 Experience  
+
+✔️ Web Development (Frontend & Backend)  
+✔️ Process Automation  
+✔️ 3D Printing & Modeling  
+✔️ Mobile App Development  
+
+---
+
+## 📫 Let’s Connect!  
+
+If you’d like to chat about technology, projects, or anything else, feel free to reach out! 😃  
+
+📩 **Email:** henriquegau11@gmail.com  
+💼 **LinkedIn:** [www.linkedin.com/in/henrique-fajardo-59349328a](#)  
+🚀 **GitHub:** [github.com/Rique11](#)  
 
 <!--
 **Rique11/Rique11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
