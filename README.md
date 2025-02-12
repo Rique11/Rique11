@@ -27,7 +27,7 @@ Tenho experiência em **desenvolvimento web, automações, impressão e modelage
 ✅ **Frontend:** React  
 ✅ **Backend:** Node.js  
 ✅ **Banco de Dados:** SQL  
-✅ **Programação:** Python  
+✅ **Programação:** Python, C, C++, R, Java    
 ✅ **Impressão & Modelagem 3D**  
 
 ---
@@ -59,7 +59,7 @@ Se quiser trocar uma ideia sobre tecnologia, projetos ou qualquer outro assunto,
 
 ## 🔥 About Me  
 
-I am a technology and development enthusiast, currently pursuing a **Computer Engineering** degree at UTFPR. In addition to my studies, I work as a **Project Director** at Therion Empresa Júnior, where I manage projects and collaborate directly with advisors to ensure the delivery of innovative solutions.  
+I am a technology and development enthusiast, currently pursuing a **Computer Engineering** degree at UTFPR. In addition to my studies, I work as a **Project Manager** at Therion Empresa Júnior, where I manage projects and collaborate directly with advisors to ensure the delivery of innovative solutions.  
 
 I have experience in **web development, automation, 3D printing and modeling, and mobile app development**. I am always eager to learn new technologies and enhance my skills to develop efficient and impactful solutions.  
 
@@ -77,7 +77,7 @@ I have experience in **web development, automation, 3D printing and modeling, an
 ✅ **Frontend:** React  
 ✅ **Backend:** Node.js  
 ✅ **Database:** SQL  
-✅ **Programming:** Python  
+✅ **Programming:** Python, C, C++, R, Java  
 ✅ **3D Printing & Modeling**  
 
 ---
