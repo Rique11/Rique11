@@ -39,7 +39,7 @@ Tenho experiência em **desenvolvimento web, automações, impressão e modelage
 ✔️ Desenvolvimento Web (Frontend & Backend)  
 ✔️ Automação de Processos  
 ✔️ Impressão e Modelagem 3D  
-✔️ Desenvolvimento de Aplicativos  
+✔️ Desenvolvimento de Aplicativos (Expo & React-Native)
 
 ---
 
