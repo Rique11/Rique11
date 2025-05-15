@@ -26,9 +26,11 @@ Tenho experiência em **desenvolvimento web, automações, impressão e modelage
 ### 🔧 **Hard Skills**  
 ✅ **Frontend:** React  
 ✅ **Backend:** Node.js  
-✅ **Banco de Dados:** SQL  
+✅ **Banco de Dados:** SQL, MongoDB
 ✅ **Programação:** Python, C, C++, R, Java    
+✅ **BASS** Firebase   
 ✅ **Impressão & Modelagem 3D**  
+
 
 ---
 
